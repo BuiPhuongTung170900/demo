@@ -16,4 +16,5 @@ Text.main{
 }
 GridPane{
     -fx-background-color: bisque;
+    -fx-padding: 10;
 }
